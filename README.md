@@ -53,13 +53,13 @@ The specifications of the maps are as follows:
 
 ## Attribution
 We kindly ask those who use this suite to cite the paper:
-[Osato and Nagai (2021)](https://ui.adsabs.harvard.edu).
+[Osato and Nagai (2022)](https://ui.adsabs.harvard.edu).
 The bibtex entry of the paper:
 ```
 [TBA]
 ```
 
 ## Copyright
-Copyright 2021 Ken Osato and Daisuke Nagai
+Copyright 2022 Ken Osato and Daisuke Nagai
 
 This software is made available under MIT License. Please see `LICENSE` file for details.
