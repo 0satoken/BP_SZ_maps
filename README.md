@@ -13,6 +13,8 @@ There are 108 realisations for all-sky (halo-based pasting) and flat-sky (partic
 
 ## Codes
 We provide jupyter notebook to load the map data (`load_allsky_HP_map.ipynb` and `load_flatsky_PP_map.ipynb`).
+[healpy](https://github.com/healpy/healpy) and [h5py](https://github.com/h5py/h5py)
+are required for loading healpix and HDF5 maps, respectively.
 
 
 ## Data sets
