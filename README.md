@@ -1,13 +1,13 @@
 # Mock SZ Maps with Halo-based and Particle-based Baryon Pasting
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2010.09731-b31b1b.svg)](https://arxiv.org/abs/2010.09731) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2201.02632-b31b1b.svg)](https://arxiv.org/abs/2201.02632)
 
 ## Overview
 
 This suite is composed of mock tSZ and kSZ maps generated from dark-matter only N-body simulations
-with baryon pasting algorithms developed in [Osato and Nagai (2022)](https://ui.adsabs.harvard.edu).
+with baryon pasting algorithms developed in
+[Osato and Nagai (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220102632O/abstract).
 There are 108 realisations for all-sky (halo-based pasting) and flat-sky (particle-based pasting) coverage.
 
 
@@ -56,10 +56,26 @@ The specifications of the maps are as follows:
 
 ## Attribution
 We kindly ask those who use this suite to cite the paper:
-[Osato and Nagai (2022)](https://ui.adsabs.harvard.edu).
+[Osato and Nagai (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220102632O/abstract).
 The bibtex entry of the paper:
 ```
-[TBA]
+@ARTICLE{2022arXiv220102632O,
+       author = {{Osato}, Ken and {Nagai}, Daisuke},
+        title = "{Baryon Pasting Algorithm: Halo-based and Particle-based Pasting Methods}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = 2022,
+        month = jan,
+          eid = {arXiv:2201.02632},
+        pages = {arXiv:2201.02632},
+archivePrefix = {arXiv},
+       eprint = {2201.02632},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220102632O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
 ```
 
 ## Copyright
