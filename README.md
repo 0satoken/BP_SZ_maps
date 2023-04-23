@@ -56,29 +56,29 @@ The specifications of the maps are as follows:
 
 ## Attribution
 We kindly ask those who use this suite to cite the paper:
-[Osato and Nagai (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220102632O/abstract).
+[Osato and Nagai (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.2069O/abstract).
 The bibtex entry of the paper:
 ```
-@ARTICLE{2022arXiv220102632O,
+@ARTICLE{2023MNRAS.519.2069O,
        author = {{Osato}, Ken and {Nagai}, Daisuke},
-        title = "{Baryon Pasting Algorithm: Halo-based and Particle-based Pasting Methods}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
-         year = 2022,
-        month = jan,
-          eid = {arXiv:2201.02632},
-        pages = {arXiv:2201.02632},
+        title = "{Baryon pasting algorithm: halo-based and particle-based pasting methods}",
+      journal = {\mnras},
+     keywords = {methods: numerical, galaxies: clusters: intracluster medium, large-scale structure of Universe, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = 2023,
+        month = feb,
+       volume = {519},
+       number = {2},
+        pages = {2069-2082},
+          doi = {10.1093/mnras/stac3669},
 archivePrefix = {arXiv},
        eprint = {2201.02632},
  primaryClass = {astro-ph.CO},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220102632O},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.2069O},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
-
 ```
 
 ## Copyright
-Copyright 2022 Ken Osato and Daisuke Nagai
+Copyright 2023 Ken Osato and Daisuke Nagai
 
 This software is made available under MIT License. Please see `LICENSE` file for details.
