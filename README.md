@@ -33,8 +33,8 @@ and data are found in [this site](http://cosmo.phys.hirosaki-u.ac.jp/takahasi/al
 
 The specifications of the maps are as follows:
 
-* Nside: 8192
-* pixel area: 0.184 arcmin^2
+* Nside: 4096
+* pixel area: 0.738 arcmin^2
 
 
 ### Flat-sky maps with particle-based pasting
