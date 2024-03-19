@@ -30,6 +30,7 @@ and `allsky_HP_kSZ_nres13_r[real].fits` for the kSZ map.
 The corresponding halo catalogues are described in
 [Takahashi et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...850...24T/abstract)
 and data are found in [this site](http://cosmo.phys.hirosaki-u.ac.jp/takahasi/allsky_raytracing/nres13.html).
+Note that the N-body simulations to generate the HP and PP maps are different.
 
 The specifications of the maps are as follows:
 
@@ -39,12 +40,12 @@ The specifications of the maps are as follows:
 
 ### Flat-sky maps with particle-based pasting
 The file format is hdf5. The maps are pixellated in regular grids.
-The file name is `flatsky_PP_tSZ_r[real].fits` for the tSZ map
-and `flatsky_PP_kSZ_r[real].fits` for the kSZ map.
+The file name is `flatsky_PP_tSZ_r[real].hdf5` for the tSZ map
+and `flatsky_PP_kSZ_r[real].hdf5` for the kSZ map.
 `[real]` denotes the realisation (000-107).
 We also provide "halo" and "field" separated kSZ maps:
-`flatsky_PP_kSZ_halo_r[real].fits` for halo-particles only maps and
-`flatsky_PP_kSZ_field_r[real].fits` for field-particles only maps.
+`flatsky_PP_kSZ_halo_r[real].hdf5` for halo-particles only maps and
+`flatsky_PP_kSZ_field_r[real].hdf5` for field-particles only maps.
 The tSZ and kSZ maps are defined in regular grids.
 
 The specifications of the maps are as follows:
